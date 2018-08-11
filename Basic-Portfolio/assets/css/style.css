@@ -1,0 +1,19 @@
+.Inline {
+
+    display: inline;
+}
+
+h1 {
+    background-color:#4aaaa5;
+    float:left;
+};
+
+h2 {
+    float:right;
+};
+
+p.Regular Font Color {
+
+    color: #777777;
+    float: left;
+};
