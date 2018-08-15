@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .flex-container {
     display: flex;
     justify-content: flex-end;
@@ -14,3 +15,24 @@
 h1 {
     display: flex-start;    
 }
+=======
+.Inline {
+
+    display: inline;
+}
+
+h1 {
+    background-color:#4aaaa5;
+    float:left;
+};
+
+h2 {
+    float:right;
+};
+
+p.Regular Font Color {
+
+    color: #777777;
+    float: left;
+};
+>>>>>>> 66ca43b4d9f14a014573056749788c82742572a3
