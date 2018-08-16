@@ -1,38 +1,14 @@
-<<<<<<< HEAD
 .flex-container {
     display: flex;
     justify-content: flex-end;
-    background-color: DodgerBlue;
   }
   
-  .flex-container > div {
-    background-color: #f1f1f1;
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 30px;
 h1 {
-    display: flex-start;    
-}
-=======
-.Inline {
-
-    display: inline;
-}
-
-h1 {
-    background-color:#4aaaa5;
-    float:left;
-};
-
-h2 {
-    float:right;
-};
-
-p.Regular Font Color {
-
-    color: #777777;
+    display: inline-block;
     float: left;
-};
->>>>>>> 66ca43b4d9f14a014573056749788c82742572a3
+    background-color:#4aaaa5;
+}
+
+.p {
+      display: inline-block;
+  }
